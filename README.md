@@ -20,29 +20,15 @@ Team Members
 -   [Dharanish](https://www.linkedin.com/in/dharanish-s/)
 
 # Dataset 
-- You can download the dataset form [Kaggle](https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products)
+- You can download the dataset form [Kaggle](https://www.kaggle.com/datasets/thedevastator/amazon-customer-reviews-with-2013-2019-sentiment)
 
 # Attributes
-- id	
-- name	
-- asins	brand	
-- categories	
-- keys	
-- manufacturer	
-- reviews.date	
-- reviews.dateAdded	
-- reviews.dateSeen	
-- reviews.didPurchase	
-- reviews.doRecommend	
-- reviews.id	
-- reviews.numHelpful	
-- reviews.rating	
-- reviews.sourceURLs	
-- reviews.text	
-- reviews.title	
-- reviews.userCity	
-- reviews.userProvince	
-- reviews.username
+-Unique_ID	
+-Category	
+-Review_Header	
+-Review_text	
+-Rating	
+-Own_Rating
 
 # Installation
  Use can Install the packages for this application using
