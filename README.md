@@ -43,7 +43,7 @@ pip install virtualenv
 ```
 
 # Model Used 
-Support Vector Machine 
+Navie bayes Classification
 
 # Accuracy 
-The accuracy of the Model is 94.08%
+The accuracy of the Model is 85.11%
