@@ -1,5 +1,5 @@
 # Project Name
-Sentimental-Analysis-on-Amazon
+E-Commerce-Sentimental-Analysis
 
 # Project Objective
 The main objective of this project is to create a model for analyzing the customer reviews of natural language processing techniques.
@@ -20,15 +20,13 @@ Team Members
 -   [Dharanish](https://www.linkedin.com/in/dharanish-s/)
 
 # Dataset 
-- You can download the dataset form [Kaggle](https://www.kaggle.com/datasets/thedevastator/amazon-customer-reviews-with-2013-2019-sentiment)
+- Collected dataset of different e-commerce site such as Amazon, flipkart and Walmart from diffrent sources
 
 # Attributes
--Unique_ID	
--Category	
 -Review_Header	
 -Review_text	
 -Rating	
--Own_Rating
+
 
 # Installation
  Use can Install the packages for this application using
